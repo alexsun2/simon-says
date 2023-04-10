@@ -16,11 +16,7 @@ class SimonWorld extends World {
 
   // constructor for gameplay
   SimonWorld() {
-    this.clickedSequence = new MtLoButton();
-    this.flashSequence = new MtLoButton();
-    this.futureSequence = new MtLoButton();
-    this.click = "";
-    this.rand = new Random();
+    this(new MtLoButton(), new MtLoButton(), new MtLoButton(), "", new Random());
   }
 
   // constructor with new randoms
