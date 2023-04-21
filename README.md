@@ -7,6 +7,8 @@ On each successful playback, the game generates another color and lengthens the 
 
 Make sure to add tester.jar, javalib.jar, and a run configuration to the project to run the game
 
+https://course.ccs.neu.edu/cs2510sp23/tester-doc.html
+
 
 Code not published for now.
 
