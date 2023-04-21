@@ -1,7 +1,7 @@
 # Simon Says
 A Fundamentals of Computer Science 2 Game Assignment in Java:
 
-<a href="https://www.mathsisfun.com/games/simon-says.html" target="_blank">Simon Says</a> 
+[Simon Says](https://www.mathsisfun.com/games/simon-says.html){:target="_blank"}
 is a memory game with four colors, where the game generates a random sequence of the colors and the player needs to replay those colors in order. 
 On each successful playback, the game generates another color and lengthens the sequence.
 
