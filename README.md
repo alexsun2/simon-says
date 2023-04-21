@@ -1,5 +1,5 @@
 # Simon Says
-A Fundamentals of Computer Science 2 Game Assignment in Java:
+A Fundamentals of Computer Science 2 at Northeastern Game Assignment in Java:
 
 [Simon Says](https://www.mathsisfun.com/games/simon-says.html) 
 is a memory game with four colors, where the game generates a random sequence of the colors and the player needs to replay those colors in order. 
