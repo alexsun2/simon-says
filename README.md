@@ -6,5 +6,5 @@ On each successful playback, the game generates another color and lengthens the 
 
 ## Display
 <p align="center">
-  <img src= "https://github.com/alexsun2/wordle/blob/main/Wordle.gif" alt="Wordle Display" height="400"/>
+  <img src= "https://github.com/alexsun2/simon-says/blob/main/Simon.gif" alt="Wordle Display" height="400"/>
 </p>
