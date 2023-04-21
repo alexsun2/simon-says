@@ -7,6 +7,9 @@ On each successful playback, the game generates another color and lengthens the 
 
 Make sure to add tester.jar, javalib.jar, and a run configuration to the project to run the game
 
+Uses Northeastern's image and test libraries
+Image Library Guide:
+https://course.ccs.neu.edu/cs2510sp23/image-doc.html
 Tester Guide:
 https://course.ccs.neu.edu/cs2510sp23/tester-doc.html
 
