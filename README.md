@@ -5,7 +5,7 @@ A Northeastern Fundamentals of Computer Science 2 Game Assignment in Java:
 is a memory game with four colors, where the game generates a random sequence of the colors and the player needs to replay those colors in order. 
 On each successful playback, the game generates another color and lengthens the sequence.
 
-Make sure to add tester.jar, javalib.jar, and a run configuration to the project to run the game
+Add tester.jar, javalib.jar, and a run configuration to the project folder to run the game
 
 Uses Northeastern's image and test libraries:
 
