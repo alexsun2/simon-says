@@ -4,6 +4,9 @@ A Fundamentals of Computer Science 2 Game Assignment in Java:
 [Simon Says](https://www.mathsisfun.com/games/simon-says.html) is a memory game with four colors, where the game generates a random sequence of the colors and the player needs to replay those colors in order. 
 On each successful playback, the game generates another color and lengthens the sequence.
 
+Make sure to add tester.jar and javalib.jar and add a run configuration to the project to run the game
+
+
 Code not published for now.
 
 ## Display
