@@ -16,7 +16,7 @@ Tester Guide:
 https://course.ccs.neu.edu/cs2510sp23/tester-doc.html
 
 
-Code not published for now.
+Per instructor policy, code will only be released by request.
 
 ## Display
 <p align="center">
